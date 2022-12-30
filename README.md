@@ -15,6 +15,13 @@
  <h1>Project Name: Online Restaurant Management System</h1>
 ---
 
+
+
+ <h3>Language Used: PHP5.6, PHP7.x</h3>
+---
+
+
+
 <img src="sum_two_decimal_numbers.JPG"
      alt="sum_two_decimal_numbers"/>
 
