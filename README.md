@@ -69,7 +69,7 @@
 
 
 
-<h1 id="test-title">Lab Report in PDF</h1>
+<h1 id="test-title">Project video on Youtube</h1>
 
 <object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
     <embed src="loremipsum.pdf#page=2">
