@@ -18,15 +18,14 @@
  <h4>Database: MySQL 5.x</h4>
  <h4>User Interface Design: HTML, AJAX, JQUERY, JAVASCRIPT</h4>
  <h4>Web Browser: Google Chrome, Mozilla, IE8</h4>
- <h4>Software   XAMPP / Wamp or anyone</h4>
+ <h4>Software: XAMPP/ Wamp or anyone</h4>
 
- 
 ---
 
+<h2>User side screenshot</h2>
 
-
-<img src="sum_two_decimal_numbers.JPG"
-     alt="sum_two_decimal_numbers"/>
+<img src="restaurant_user.jpg"
+     alt="restaurant_user"/>
 
 ---
 
