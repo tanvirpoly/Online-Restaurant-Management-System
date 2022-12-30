@@ -40,18 +40,18 @@
 
 <h2>Admin panel screenshot</h2>
 
-<img src="sql.jpg"
-     alt="sql"/>
+<img src="pending.png"
+     alt="pending"/>
+
+<img src="overview.png"
+     alt="overview"/>
+
+<img src="order.png"
+     alt="order"/>
 
 <img src="sql.jpg"
      alt="sql"/>
 
-<img src="sql.jpg"
-     alt="sql"/>
-
-<img src="sql.jpg"
-     alt="sql"/>
-     
 <img src="sql.jpg"
      alt="sql"/>
 
