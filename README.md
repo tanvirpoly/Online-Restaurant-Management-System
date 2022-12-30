@@ -12,7 +12,7 @@
 
 ---
 
- <h1>Online Restaurant Management System</h1>
+ <h1>Project Name: Online Restaurant Management System</h1>
 ---
 
 <img src="sum_two_decimal_numbers.JPG"
