@@ -1,0 +1,5 @@
+<?php
+$ret=mysqli_query($con,"select * from products where category=4 and subCategory=6");
+while ($row=mysqli_fetch_array($ret)) 
+{
+																	?>
