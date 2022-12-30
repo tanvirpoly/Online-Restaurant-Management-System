@@ -15,7 +15,18 @@
  <h2>Project Name: Online Restaurant Management System</h2>
 ---
 
- <h3>Language Used: PHP5.6, PHP7.x</h3>
+ <h4>Language Used: PHP5.6,  PHP7.x</h4>
+
+ <h4>Database: MySQL 5.x</h4>
+
+ <h4>User Interface Design: HTML, AJAX, JQUERY, JAVASCRIPT</h4>
+
+ <h4>Web Browser: Google Chrome, Mozilla, IE8</h4>
+
+ <h4>Software   XAMPP / Wamp or anyone</h4>
+---
+
+ 
 ---
 
 
