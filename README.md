@@ -38,6 +38,29 @@
 ---
 
 
+<h2>Admin panel screenshot</h2>
+
+<img src="sql.jpg"
+     alt="sql"/>
+
+<img src="sql.jpg"
+     alt="sql"/>
+
+<img src="sql.jpg"
+     alt="sql"/>
+
+<img src="sql.jpg"
+     alt="sql"/>
+     
+<img src="sql.jpg"
+     alt="sql"/>
+
+
+
+---
+
+
+
 
 
 
