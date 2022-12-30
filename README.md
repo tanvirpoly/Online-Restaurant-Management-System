@@ -7,8 +7,8 @@
 
 <h2>Dept. of Computer Science Engineering</h2>
 
-<p>Course Title: Software Engineering Lab</p>
-<p>Course Code: CSE-314</p>
+<p>Course Title: Web Programming Lab</p>
+<p>Course Code: CSE-302</p>
 
 ---
 
