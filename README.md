@@ -3,19 +3,17 @@
 
 
 ---
-<h1>Green University of Bangladesh </h1>
+<h2>Green University of Bangladesh </h2>
 
-<h2>Dept. of Computer Science Engineering</h2>
+<h3>Dept. of Computer Science Engineering</h3>
 
 <p>Course Title: Web Programming Lab</p>
 <p>Course Code: CSE-302</p>
 
 ---
 
- <h1>Project Name: Online Restaurant Management System</h1>
+ <h2>Project Name: Online Restaurant Management System</h2>
 ---
-
-
 
  <h3>Language Used: PHP5.6, PHP7.x</h3>
 ---
