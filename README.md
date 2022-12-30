@@ -73,7 +73,7 @@
 
 <object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
     <embed src="loremipsum.pdf#page=2">
-        <p>Click here for Video <a href="https://youtu.be/la_qWon6x50">Video</a>.</p>
+        <p>Click here for Video <a href="https://youtu.be/la_qWon6x50"> YouTube </a>.</p>
     </embed>
 </object>
 
