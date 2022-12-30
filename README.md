@@ -52,15 +52,17 @@
 
 ---
 
+<h2>Data-flow diagram</h2>
 
+<img src="DFD.JPG"
+     alt="DFD"/>
 
-<img src="sql.jpg"
-     alt="sql"/>
+---     
 
-<img src="sql.jpg"
-     alt="sql"/>
+<h2>UML Diagram</h2>
 
-
+<img src="UML.JPG"
+     alt="UML"/>
 
 ---
 
