@@ -97,6 +97,17 @@
 ---
 
 
+<h1 id="test-title">Project Report</h1>
+
+<object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
+    <embed src="loremipsum.pdf#page=2">
+        <p>Click here for Report <a href="Project_Report.pdf"> PDF </a>.</p>
+    </embed>
+</object>
+
+---
+
+
 
 
 
