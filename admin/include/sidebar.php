@@ -78,7 +78,7 @@
 </ul><!--/.widget-nav-->
 
 <ul class="widget widget-menu unstyled">
-	<li><a href="user-logs.php"><i class="icon-user"></i>  User Login</a></li>
+	<li><a href="user-logs.php"><i class="icon-user"></i> User Login </a></li>
 
 	<li>
 		<a href="logout.php">
